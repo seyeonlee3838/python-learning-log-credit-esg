@@ -7,6 +7,7 @@ This repository contains my Python learning progress through the "Python for Eve
 - Module 2: Data Structures
 - Module 3: Functions
 - Module 4: File Handling
+- Module 5: Loops
 
 ## Notes
 Learning Python to apply computational methods to corporate credit and ESG risk analysis.
