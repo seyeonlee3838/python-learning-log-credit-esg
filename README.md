@@ -14,4 +14,4 @@ Learning Python to apply computational methods to corporate credit and ESG risk 
 
 
 ## Additional Project
-- **esg_score_calc.py**: Simple ESG scoring calculator using dummy data (demonstrates Python application in corporate credit and ESG analysis).
+- **esg_score_calc.py**: Simple ESG scoring calculator using dummy data
